@@ -10,6 +10,7 @@ cask_packages=(
     "rectangle"
     "zoom"
     "notion"
+    "iterm2"
 )
 
 # Update Homebrew to the latest version
