@@ -11,7 +11,17 @@ cask_packages=(
     "zoom"
     "notion"
     "iterm2"
+    "alt-tab"
+    "monitorcontrol"
+    "shottr"
+    "numi"
+    "keepingyouawake"
+    "alfred"
 )
+
+# Mac apps that are not available as casks
+# Grab2Text
+# Hand Mirror
 
 # Update Homebrew to the latest version
 brew update
