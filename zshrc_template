@@ -113,6 +113,7 @@ source $(brew --prefix)/share/zsh-history-substring-search/zsh-history-substring
 
 export PATH=$PATH:/Applications/IntelliJ\ IDEA.app/Contents/MacOS
 
+export PATH="${ASDF_DATA_DIR:-$HOME/.asdf}/shims:$PATH"
 bindkey "$terminfo[kcuu1]" history-substring-search-up
 bindkey "$terminfo[kcud1]" history-substring-search-down
 
