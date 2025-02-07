@@ -109,7 +109,7 @@ source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $(brew --prefix)/share/zsh-history-substring-search/zsh-history-substring-search.zsh
 
-. $(brew --prefix)/opt/asdf/libexec/asdf.sh
+# . $(brew --prefix)/opt/asdf/libexec/asdf.sh
 
 export PATH=$PATH:/Applications/IntelliJ\ IDEA.app/Contents/MacOS
 
