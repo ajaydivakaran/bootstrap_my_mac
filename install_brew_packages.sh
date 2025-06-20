@@ -48,6 +48,7 @@ brew_packages=(
     "zsh-autosuggestions"
     "zsh-history-substring-search"
     "zsh-syntax-highlighting"
+    "fzf"
 )
 
 # Install each brew package
